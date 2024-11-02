@@ -12,6 +12,7 @@ The objective of this project is to develop and deploy a robust Convolutional Ne
 ## Data Sources:
 
 The dataset for this project was sourced from a comprehensive brain tumor repository on Kaggle. This dataset includes detailed images of various types of brain tumors, providing a robust foundation for training and validating the Convolutional Neural Network model. Utilizing this well-curated dataset ensures the reliability and accuracy of the machine learning model, as it encompasses a diverse array of tumor images necessary for effective classification.
+https://www.kaggle.com/datasets/mohammadhossein77/brain-tumors-dataset/data
 
 ## Summary:
 
